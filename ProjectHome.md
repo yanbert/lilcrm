@@ -1,0 +1,1 @@
+Simple CRM plugin for CakePHP
